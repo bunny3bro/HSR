@@ -1,0 +1,32 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+body{
+  background: url('./image/back.png'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button{
+  background-color: black;
+}
+
+.passblack{
+  color: black;
+  font-size: large;
+}
+
+.huo{
+  height: 240px;
+  width: 533.3333333333333px;
+}
+
+.timer{
+  font-size: xx-large;
+}
